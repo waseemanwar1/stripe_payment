@@ -21,6 +21,7 @@ GEM
       diff-lcs (>= 1.2.0, < 2.0)
       rspec-support (~> 3.10.0)
     rspec-support (3.10.2)
+    stripe (5.38.0)
 
 PLATFORMS
   x86_64-darwin-19
@@ -28,6 +29,7 @@ PLATFORMS
 DEPENDENCIES
   rake (~> 13.0)
   rspec (~> 3.0)
+  stripe
   stripe_payment!
 
 BUNDLED WITH
