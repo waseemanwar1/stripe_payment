@@ -2,6 +2,7 @@ PATH
   remote: .
   specs:
     stripe_payment (0.1.0)
+      stripe
 
 GEM
   remote: https://rubygems.org/
